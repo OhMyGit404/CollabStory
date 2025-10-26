@@ -4,21 +4,21 @@ A real-time collaborative storytelling platform where multiple users can contrib
 
 ## Pages & Features
 
-### 🏠 **Home Page** (`/`)
+### **Home Page** (`/`)
 - Browse all public stories
 - Filter by genre (Fantasy, Sci-Fi, Mystery, etc.)
 - Search stories by title or content
 - View story statistics (contributors, words, nodes)
 - Quick access to create new stories
 
-### 📝 **Create Story Page** (`/create/`)
+### **Create Story Page** (`/create/`)
 - Story title and genre selection
 - Initial prompt/premise input
 - Cover image upload (optional)
 - Maximum contributors setting
 - Public/private visibility toggle
 
-### 📖 **Story Detail Page** (`/<story_id>/`)
+### **Story Detail Page** (`/<story_id>/`)
 - **Story Content Display**
   - Real-time story content with author attribution
   - Word count and contribution tracking
@@ -43,12 +43,12 @@ A real-time collaborative storytelling platform where multiple users can contrib
   - Instant content updates
   - Real-time comments
 
-### 👤 **User Authentication**
+### **User Authentication**
 - **Login Page** (`/users/login/`)
 - **Registration Page** (`/users/register/`)
 - **User Profile** (`/users/profile/`)
 
-### 🔧 **Admin Panel** (`/admin/`)
+### **Admin Panel** (`/admin/`)
 - Story management
 - User management
 - AI prompt tracking
@@ -112,5 +112,3 @@ A real-time collaborative storytelling platform where multiple users can contrib
 - **Story Management** - Create, edit, and manage collaborative stories
 
 ---
-
-**Ready to start your collaborative story?** 🚀📚
