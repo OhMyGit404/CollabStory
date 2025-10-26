@@ -1,3 +1,4 @@
 from django.shortcuts import render
 
-# Create your views here.
+def collaboration_home(request):
+    return render(request, 'collaboration/home.html')
