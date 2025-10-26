@@ -1,3 +1,4 @@
 from django.shortcuts import render
 
-# Create your views here.
+def ai_dashboard(request):
+    return render(request, 'ai_assistant/dashboard.html')
